@@ -1,0 +1,6 @@
+unifont.otf：GNU Unifont 像素字型（16x16 點陣，含繁體中文）
+授權：GNU GPL 2+ 附字型嵌入例外（font embedding exception），上游也提供 SIL OFL 1.1。
+可以放進遊戲使用；若要商業發行，請再確認 https://unifoundry.com/unifont/ 的授權說明。
+
+想換成別的字型：把字型改名為 font.ttf 或 font.otf 放在這個資料夾，遊戲會優先使用。
+（像素字型請用 16 的倍數大小，畫面才會清楚）
